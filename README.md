@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋 I'm Lyoo Seungmok!
+I'm passionate about **Computer Vision, AI**.
 
-<!--
-**davidlyoo/davidlyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔥 Interests
+- **Computer Vision & Deep Learning** 🖥️📡
+- **Generative Models & 3D Vision** 📷🔄
+- **AI for Real-World Applications** 🌍
 
-Here are some ideas to get you started:
+### 📜 Research & Blog
+- Velog: [https://velog.io/@davidlyoo/posts](Velog)
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
+- Email: david6851s@gmail.com
