@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Lyoo Seungmok!
+### Hi 👋 I'm Lyoo Seungmok!
 I'm passionate about **Computer Vision, AI**.
 
 ### 🔥 Interests
