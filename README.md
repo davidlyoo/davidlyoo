@@ -6,7 +6,7 @@ I'm passionate about **Computer Vision, AI**.
 - **Generative Models & 3D Vision** 📷🔄
 - **AI for Real-World Applications** 🌍
 
-### 📜 Research & Blog
+### 📜 Research Blog
 - Velog: [https://velog.io/@davidlyoo/posts](Velog)
 
 ### 📫 Contact
