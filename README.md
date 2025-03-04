@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Lyoo Seungmok!
 I'm passionate about **Computer Vision, AI**.
 
-### 🔥 Interests
+### 🔥 Research Interests
 - **Computer Vision & Deep Learning** 🖥️📡
 - **Generative Models & 3D Vision** 📷🔄
 - **AI for Real-World Applications** 🌍
