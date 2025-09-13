@@ -3,8 +3,8 @@ I'm passionate about **Computer Vision, AI**.
 
 ### 🔥 Research Interests
 - **Computer Vision & Deep Learning** 🖥️
-- **Generative Models & 3D Vision** 📷
-- **Multimodal AI & Sensor Fusion** 🔀
+- **3D Vision & Generative Modelsn** 📷
+- **3D Reconstruction & Scene Understanding** 🌍
 
 ### 📜 Research Blog
 - Velog: [https://velog.io/@davidlyoo/posts](Velog)
